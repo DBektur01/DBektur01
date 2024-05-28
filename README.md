@@ -4,15 +4,7 @@ Welcome!!!
 
 ## Backend developer
 
-### 📊 My GitHub Stats:
 
-![DBektur01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DBektur01&show_icons=true&theme=radical)
-
-![DBektur01's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DBektur01&theme=radical)
-
-![DBektur01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DBektur01&layout=compact&theme=radical)
-
-![DBektur01's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DBektur01&theme=react-dark)
 
 ### 🚀 Languages and Tools:
 
