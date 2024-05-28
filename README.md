@@ -4,8 +4,6 @@ Welcome!!!
 
 ## Backend developer
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=DBektur01&theme=react-dark)
-
 ### 🚀 Languages:
 - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
