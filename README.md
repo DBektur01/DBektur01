@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bektur Duyshenbekov
 
 ## Languages and Tools:
-<p align="center">
+<p>
    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="50"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="70"/>
