@@ -6,7 +6,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="50"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="70"/>
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="50"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="50"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="40"/>
 
 </p>
 
