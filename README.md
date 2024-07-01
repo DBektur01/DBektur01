@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bektur Duyshenbekov
+# Hi 👋, I'm Bektur Duyshenbek uulu
 
 ## Languages and Tools:
 
