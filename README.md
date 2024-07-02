@@ -1,5 +1,9 @@
 # Hi 👋, I'm Bektur Duyshenbek uulu
-
+<div align="center">
+    <link href="https://github.com/bekishh">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+        alt="snake" /></link>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +35,8 @@
 🌱 I’m currently learning cloud technologies and microservices<br>
 💬 Ask me about Java, Spring, and backend development<br>
 ⚡ Fun fact: I love coding and solving complex problems<br>
+
+
 
 
 
