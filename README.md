@@ -1,6 +1,5 @@
 # Hi 👋, I'm Bektur Duyshenbek uulu
 
-## Languages and Tools:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
