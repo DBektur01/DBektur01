@@ -9,7 +9,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bektur_duyshenbekuulu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bektur-duyshenbekov-a97870305) 
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@DBektur01)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/DBektur01)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
